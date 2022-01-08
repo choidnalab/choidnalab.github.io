@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 
-Jump to [PhD Students](#PhD_students), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [Graduate Students](#PhD_students), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
@@ -74,7 +74,7 @@ Jump to [PhD Students](#PhD_students), [master and bachelor students](#master-an
 {% endif %}
 
 
-## PhD Students
+## Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.PhD_students %}
 
