@@ -1,7 +1,7 @@
 - name: Hanyu Zhang
   photo: HanyuZhang.jpg
   duration: 
-  info: 
+  info: PhD
   email: 
   number_educ: 2
   education1: B.S. Purdue University (2010)
@@ -11,7 +11,7 @@
 
 - name: Haorong Chen
   photo: HaorongChen.jpg
-  info: 
+  info: PhD
   duration: 
   email: 
   number_educ: 
@@ -21,7 +21,7 @@
 
 - name: Jing Pan
   photo: JingPan.jpg
-  info: 
+  info: PhD
   duration: 
   email: 
   number_educ: 1
@@ -32,7 +32,7 @@
 
 - name: Feiran li
   photo: Feiran.jpg
-  info: 
+  info: PhD
   email: 
   duration: 
   number_educ: 1
@@ -43,7 +43,7 @@
 
 - name: Haodong Du
   photo: nopic.jpg
-  info: 
+  info: Phd
   email: 
   number_educ: 1
   duration: 
@@ -54,7 +54,7 @@
 
 - name: Tianyi Wang
   photo: nopic.jpg
-  info: 
+  info: PhD
   email: 
   number_educ: 1
   duration: 
