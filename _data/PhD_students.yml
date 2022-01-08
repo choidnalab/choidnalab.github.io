@@ -5,6 +5,14 @@
   number_educ: 1
   education1: B.S. Tsinghua University (2016) Engineering Mechanics
 
+- name: Jaehoon Ji
+  photo: nopic.jpg
+  info: PhD Student,
+  email: 
+  number_educ: 2
+  education1: B.S. in Mechanical Engineering, Yonsei University
+  education2: M.S. in Mechanical Engineering, Yonsei University
+  
 - name: Yancheng Du
   photo: nopic.jpg
   info: PhD Student
@@ -13,24 +21,16 @@
   education1: B.S. Tsinghua University
 
 
-- name: Jaehoon Ji
-  photo: nopic.jpg
-  info: PhD Student,
-  email: 
-  number_educ: 2
-  education1: Bachelor's in Mechanical Engineering, Yonsei University
-  education2: Master's in Mechanical Engineering, Yonsei University
- 
 - name: Anirudh Sampath Madhavacharyula
   photo: nopic.jpg
   info: PhD Student
   email: 
   number_educ: 1
-  education1: Bachelor's in Mechanical Engineering, IIT Tirupati
+  education1: B.S. in Mechanical Engineering, IIT Tirupati
  
 - name: Harshith Kumar Adepu
   photo: nopic.jpg
   info: PhD Student
   email: 
   number_educ: 1
-  education1: Bachelor's in Mechanical Engineering, NIT Warangal
+  education1: B.S. in Mechanical Engineering, NIT Warangal
