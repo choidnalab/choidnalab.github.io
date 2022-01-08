@@ -1,0 +1,60 @@
+- name: Jong Hyun Choi PhD
+  photo: choi.jpg
+  info: Professor, Mechanical Engineering
+  email: jchoi@purdue.edu
+  number_educ: 4
+  education1: B.S., Yonsei University, '99
+  education2: M.S., Yonsei University, '01
+  education3: Ph.D., University of California, Berkeley, '05
+  education4: Postdoctoral Research (2008), MIT and UIUC, Chemical Engineering
+
+- name: Ruixin Li
+  photo: Ruixin.jpg
+  info: PhD Student
+  email: 
+  number_educ: 1
+  education1: B.S. Tsinghua University (2016) Engineering Mechanics
+
+- name: Feiran Li
+  photo: Feiran.jpg
+  info: PhD Student
+  email: Fieran@gmail.com
+  number_educ: 1
+  education1: B.S. Tsinghua University (2014) Biomedical Engineering
+
+- name: Yancheng Du
+  photo: nopic.jpg
+  info: PhD Student
+  email: 
+  number_educ: 1
+  education1: B.S. Tsinghua University
+
+
+- name: Jaehoon Ji
+  photo: nopic.jpg
+  info: PhD Student,
+  email: 
+  number_educ: 2
+  education1: Bachelor's in Mechanical Engineering, Yonsei University
+  education2: Master's in Mechanical Engineering, Yonsei University
+ 
+
+- name: Willem Tromp
+  photo: website_pic_willem.jpg
+  info: PhD Student, started September 2018
+  email: WTromp@physics.leidenuniv.nl
+  number_educ: 1
+  education1: Master Leiden University with Felix Baumberger, Milan Allan
+  education2:
+  education3:
+  education4:
+
+- name: Tjerk Benschop
+  photo: tjeruk.jpg
+  info: PhD Student, started November 2018
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 2
+  education1: Master Leiden University with Milan Allan
+  education2: Casimir PhD fellowship
+  education3:
+  education4:
