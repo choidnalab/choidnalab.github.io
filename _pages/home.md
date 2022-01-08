@@ -1,7 +1,7 @@
 ---
 title: "Choi Laboratory - Home"
 layout: homelay
-excerpt: "Choi Lab at Purdue University."
+excerpt: "Choi Laboratory Purdue University."
 sitemap: false
 permalink: /
 ---
