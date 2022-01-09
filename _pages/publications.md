@@ -18,7 +18,7 @@ permalink: /publications/
 
 
 ## Patents
-<em>Ternary Composite Materials, Supercapacitors Comprising The Same, and Methods for Producing Ternary Composite Materials and Supercapacitors</em><br />J. Ji, D. Houpt, J.H. Choi<br /> Provisional Patent Application (2021)
+<br />Ternary Composite Materials, Supercapacitors Comprising The Same, and Methods for Producing Ternary Composite Materials and Supercapacitors<br /><em>J. Ji, D. Houpt, J.H. Choi<em> Provisional Patent Application (2021)
 
 <em>Ultralow Concentration Sensing of Bio-Matter with Perovskite Nickelate Devices and Arrays</em><br />H. Zhang, F. Zuo, F. Li, J.H. Choi, S. Ramanathan<br /> WO/2020/131475 (2020)
 
