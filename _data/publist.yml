@@ -1,7 +1,7 @@
 - title: "High-Performance Supercapacitor Electrodes Based on Composites of MoS2 Nanosheets, Carbon Nanotubes, and ZIF-8 Metal-Organic Framework Nanoparticles"
   image: Conformation.png
   description: 
-  authors: D.N. Houpt+, J. Ji+, D. Yang, and J.H. Choi
+  authors: D.N. Houpt, J. Ji, D. Yang, and J.H. Choi
   link:
     url: https://pubs.acs.org/doi/10.1021/acsanm.1c04065
     display: ACS Applied Nano Materials (2022)
@@ -43,7 +43,7 @@
 - title: "Programmable Aggregation of Artificial Cells with DNA Signals"
   image: Conformation.png
   description:  
-  authors: H. Qiu+, F. Li+, Y. Du+, R. Li, J.Y Hyun, S.Y. Lee, and J.H. Choi
+  authors: H. Qiu, F. Li, Y. Du, R. Li, J.Y Hyun, S.Y. Lee, and J.H. Choi
   link:
     url: https://pubs.acs.org/doi/10.1021/acssynbio.0c00550
     display:  ACS Synthetic Biology, 10, 1268-1276 (2021)
@@ -83,7 +83,7 @@
 - title: "Auxetic Two-Dimensional Nanostructures from DNA"
   image: Auxetic.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: R. Li+, H. Chen+, and J.H. Choi
+  authors: R. Li, H. Chen, and J.H. Choi
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202014729
     display:  Angewandte Chemie International Edition, 60, 7165-7173 (2021)
@@ -94,7 +94,7 @@
 - title: "Mechanistic Understanding of Surface Migration Dynamics with DNA Walkers"
   image: Conformation.png
   description:  
-  authors: 10.	Y. Du, J. Pan, H. Qiu, C. Mao, and J.H. Choi
+  authors: Y. Du, J. Pan, H. Qiu, C. Mao, and J.H. Choi
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jpcb.0c09048
     display:  Journal of Physical Chemistry B, 125, 507-517 (2021)
@@ -135,7 +135,7 @@
 - title: "Mimicking Chemotactic Cell Migration with DNA Programmable Synthetic Vesicles"
   image: Conformation.png
   description:  
-  authors: J. Pan+, Y. Du+, H. Qiu, L.R. Upton, F. Li, and J.H. Choi
+  authors: J. Pan, Y. Du, H. Qiu, L.R. Upton, F. Li, and J.H. Choi
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b04428
     display: Nano Letters, 19, 9138-9144 (2019)
@@ -195,7 +195,7 @@
 - title: "Conformational Effects of UV Light on DNA Origami"
   image: Conformation.png
   description:  
-  authors: 20.	H. Chen, R. Li, S. Li, J. Andreasson, and J.H. Choi
+  authors: H. Chen, R. Li, S. Li, J. Andreasson, and J.H. Choi
   link:
     url: https://pubs.acs.org/doi/10.1021/jacs.6b10821
     display: Journal of the American Chemical Society, 139, 1380-1383 (2017)
@@ -225,7 +225,7 @@
 - title: "Engineering Chemically-Exfoliated Large-Area Two-Dimensional MoS2 Nanolayers with Porphyrins for Improved Light Harvesting"
   image: Conformation.png
   description:  
-  authors: 23.	H. Zhang, J. Choi, A. Ramani, D. Voiry, S.N. Natoli, M. Chhowalla, D.R. McMillin, and J.H. Choi
+  authors: H. Zhang, J. Choi, A. Ramani, D. Voiry, S.N. Natoli, M. Chhowalla, D.R. McMillin, and J.H. Choi
   link:
     url: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201600511
     display: ChemPhysChem, 17, 2854-2862 (2016)
@@ -245,7 +245,7 @@
 - title: "DNA Walker-Regulated Cancer Cell Growth Inhibition"
   image: Conformation.png
   description:  
-  authors: F. Li+, T.G. Cha+, J. Pan, A. Ozcelikkale, B. Han, and J.H. Choi
+  authors: F. Li, T.G. Cha, J. Pan, A. Ozcelikkale, B. Han, and J.H. Choi
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/27059426/
     display: ChemBioChem, 17, 1138-1141 (2016)
@@ -295,7 +295,7 @@
 - title: "Design Principles of DNA Enzyme-based Walkers: Translocation Kinetics and Photoregulation"
   image: Conformation.png
   description:  
-  authors: T.G. Cha+, J. Pan+, H. Chen, H.N. Robinson, X. Li, C. Mao, and J.H. Choi
+  authors: T.G. Cha, J. Pan, H. Chen, H.N. Robinson, X. Li, C. Mao, and J.H. Choi
   link:
     url: https://pubs.acs.org/doi/10.1021/jacs.5b05522
     display: Journal of the American Chemical Society, 137, 9429-9437 (2015)
@@ -405,7 +405,7 @@
 - title: "DNA Oligonucleotide Templated Nanohybrids Using Electronic Type Sorted Carbon Nanotubes for Light Harvesting"
   image: Conformation.png
   description:  
-  authors: H. Zhang+, B.A. Baker+, T.G. Cha, M.D. Sauffer, Y. Wu, N. Hinkson, M.A. Bork, C.M. McShane, K.S. Choi, D.R. McMillin, and J.H. Choi
+  authors: H. Zhang, B.A. Baker, T.G. Cha, M.D. Sauffer, Y. Wu, N. Hinkson, M.A. Bork, C.M. McShane, K.S. Choi, D.R. McMillin, and J.H. Choi
   link:
     url: https://www.researchgate.net/publication/230658488_DNA_Oligonucleotide_Templated_Nanohybrids_Using_Electronic_Type_Sorted_Carbon_Nanotubes_for_Light_Harvesting
     display: Advanced Materials, 24, 5447-5451 (2012)
@@ -456,7 +456,7 @@
 - title: "Photoelectrochemical Complexes for Solar Energy Conversion that Chemically and Autonomously Regenerate"
   image: Conformation.png
   description:  
-  authors: M.H. Ham+, J.H. Choi+, A.A. Boghossian+, E.S. Jeng, R.A. Graff, D.A. Heller, A.C. Chang, A. Mattis, T.H. Bayburt, Y.V. Grinkova, A.S. Zeiger, K.V. Vliet, E.K. Hobbie, S.G. Sligar, C.A. Wraight, and M.S. Strano
+  authors: M.H. Ham, J.H. Choi, A.A. Boghossian, E.S. Jeng, R.A. Graff, D.A. Heller, A.C. Chang, A. Mattis, T.H. Bayburt, Y.V. Grinkova, A.S. Zeiger, K.V. Vliet, E.K. Hobbie, S.G. Sligar, C.A. Wraight, and M.S. Strano
   link:
     url: https://www.nature.com/articles/nchem.822
     display: Nature Chemistry, 2, 929-936 (2010)
@@ -539,8 +539,8 @@
   description:  
   authors: J.H. Choi, D. Lucas, and C.P. Koshland
   link:
-    url: https://www.researchgate.net/publication/228509911_Laser_ablation_of_nanoscale_pairticles_with_193_nm_Right
-    display: 
+    url: https://iopscience.iop.org/article/10.1088/1742-6596/59/1/012
+    display: Journal of Physics: Conference Series, 59, (2007)
   highlight: 0
   news2:   
 
