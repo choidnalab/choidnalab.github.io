@@ -18,39 +18,91 @@
   highlight: 0
   news2: 
   
-- title: ""
+- title: "Kinetic DNA Self-Assembly: Simultaneously Co-Folding Complementary DNA Strands into Identical Nanostructures"
   image: Conformation.png
   description:  
-  authors: 
+  authors: M. Zheng, Z. Li, L. Liu, M. Li, V.E. Paluzzi, J.H. Choi, and C. Mao
   link:
-    url: 
-    display:  
+    url: https://pubs.acs.org/doi/10.1021/jacs.1c09925
+    display:  Journal of the American Chemical Society (2021)
   highlight: 0
   news2: 
   
   
-- title: ""
+- title: "Engineering the Nanoscaled Morphologies of Linear DNA Homopolymers"
   image: Conformation.png
   description:  
-  authors: 
+  authors: M. Zheng, Q. Li, Q. Li, V.E. Paluzzi, J.H. Choi, and C. Mao
   link:
     url: 
-    display:  
+    display:  Macromolecular Rapid Communications (2021)
   highlight: 0
   news2: 
   
   
-- title: ""
+- title: "Programmable Aggregation of Artificial Cells with DNA Signals"
   image: Conformation.png
   description:  
-  authors: 
+  authors: 5.	H. Qiu+, F. Li+, Y. Du+, R. Li, J.Y Hyun, S.Y. Lee, and J.H. Choi
   link:
-    url: 
-    display:  
+    url: https://pubs.acs.org/doi/10.1021/acssynbio.0c00550
+    display:  ACS Synthetic Biology (2021)
   highlight: 0
   news2: 
   
-- title: ""
+- title: "Conformational Control of DNA Origami by DNA Oligomers, Intercalators and UV Light"
+  image: Conformation.png
+  description:  
+  authors: R. Li, H. Chen, H. Lee, and J.H. Choi
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34067324/
+    display:  Methods and Protocols, 4, 38 (2021). 
+  highlight: 0
+  news2:
+  
+- title: "Elucidating the Mechanical Energy for Cyclization of a DNA Origami Tile"
+  image: Conformation.png
+  description:  
+  authors: R. Li, H. Chen, H. Lee, and J.H. Choi
+  link:
+    url: https://www.mdpi.com/2076-3417/11/5/2357
+    display:  Applied Sciences, 11, 2357 (2021)
+  highlight: 0
+  news2:
+  
+- title: "Topological Assembly of a Deployable Hoberman Flight Ring from DNA"
+  image: Conformation.png
+  description:  
+  authors: R. Li, H. Chen, and J.H. Choi
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202007069
+    display:  Small, 17, 2007069 (2021)
+  highlight: 0
+  news2:  
+  
+  - title: "Auxetic Two-Dimensional Nanostructures from DNA"
+  image: Conformation.png
+  description:  
+  authors: R. Li+, H. Chen+, and J.H. Choi
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202014729
+    display:  Angewandte Chemie International Edition, 60, 7165-7173 (2021)
+  highlight: 0
+  news2:
+  
+  
+  - title: "Mechanistic Understanding of Surface Migration Dynamics with DNA Walkers"
+  image: Conformation.png
+  description:  
+  authors: 10.	Y. Du, J. Pan, H. Qiu, C. Mao, and J.H. Choi
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.jpcb.0c09048
+    display:  Journal of Physical Chemistry B, 125, 507-517 (2021)
+  highlight: 0
+  news2:
+  
+  
+  - title: ""
   image: Conformation.png
   description:  
   authors: 
@@ -68,16 +120,17 @@
     url: 
     display:  
   highlight: 0
-  news2:
+  news2:  
   
-  
-  
-  
-  
-  
-  
-  
-  
+- title: ""
+  image: Conformation.png
+  description:  
+  authors: 
+  link:
+    url: 
+    display:  
+  highlight: 0
+  news2:  
   
 
 - title: "Auxetic Two‐Dimensional Nanostructures from DNA"
