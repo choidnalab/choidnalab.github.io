@@ -207,7 +207,7 @@ Jump to [Graduate Students](#PhD_students), [Undergraduate Students](#master-and
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i> {{ member.info }}</i>
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
