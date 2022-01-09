@@ -242,6 +242,16 @@
   highlight: 0
   news2:
   
+- title: "DNA Walkers as Transport Vehicles of Nanoparticles along a Carbon Nanotube"
+  image: Conformation.png
+  description:  
+  authors: J. Pan, T.G. Cha, H. Chen, F. Li, and J.H. Choi
+  link:
+    url: https://experiments.springernature.com/articles/10.1007/978-1-4939-6454-3_19
+    display: 3D DNA Nanostructures - Methods and Protocols, Springer (2016)
+  highlight: 0
+  news2: 
+  
 - title: "DNA Walker-Regulated Cancer Cell Growth Inhibition"
   image: Conformation.png
   description:  
@@ -331,6 +341,16 @@
     display: Journal of Physical Chemistry C, 118, 11612-11619 (2014)
   highlight: 0
   news2:  
+
+- title: "DNA Origami as Programmable Nanomanufacturing Tools"
+  image: Conformation.png
+  description:  
+  authors: H. Chen, F. Li, J. Pan, J. Choi, and J.H. Choi
+  link:
+    url: https://link.springer.com/referenceworkentry/10.1007%2F978-94-007-6178-0_100907-1#:~:text=DNA%20Origami%20as%20Nanostencils%20for,to%20achieve%20much%20better%20resolution.
+    display: Encyclopedia of Nanotechnology, Springer (2015)
+  highlight: 0
+  news2:  
   
 - title: "Understanding the Mechanical Properties of DNA Origami Tiles and Controlling the Kinetics of their Folding and Unfolding Reconfiguration"
   image: Conformation.png
@@ -381,6 +401,36 @@
     display: Nanotechnology, 24, 435601 (2013)
   highlight: 0
   news2: 
+
+- title: "Carbon Nanotubes and Graphene for Photonic Applications"
+  image: Conformation.png
+  description:  
+  authors: S. Yamashita, Y. Saito, and J.H. Choi
+  link:
+    url: https://www.elsevier.com/books/carbon-nanotubes-and-graphene-for-photonic-applications/yamashita/978-0-85709-417-9
+    display: Elsevier (2013)
+  highlight: 0
+  news2: 
+  
+- title: "Carbon Nanotube based Optical Platforms for Biomolecular Detection"
+  image: Conformation.png
+  description:  
+  authors: J. Pan, T.G. Cha, H. Chen, and J.H. Choi
+  link:
+    url: https://www.researchgate.net/publication/282998563_Carbon_nanotube-based_optical_platforms_for_biomolecular_detection
+    display: Carbon Nanotubes and Graphene for Photonic Applications, Elsevier (2013)
+  highlight: 0
+  news2: 
+  
+- title: " Carbon Nanotube Solar Cells"
+  image: Conformation.png
+  description:  
+  authors: B.A. Baker, H. Zhang, T.G. Cha, and J.H. Choi
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/B978085709417950009X
+    display: Carbon Nanotubes and Graphene for Photonic Applications, Elsevier (2013)
+  highlight: 0
+  news2: 
   
 - title: "Multiplexed Optical Detection of Plasma Porphyrins Using DNA Aptamer-Functionalized Carbon Nanotubes"
   image: Conformation.png
@@ -409,6 +459,16 @@
   link:
     url: https://www.researchgate.net/publication/230658488_DNA_Oligonucleotide_Templated_Nanohybrids_Using_Electronic_Type_Sorted_Carbon_Nanotubes_for_Light_Harvesting
     display: Advanced Materials, 24, 5447-5451 (2012)
+  highlight: 0
+  news2:  
+  
+- title: "Self-Repairing Photoelectrochemical Complexes based on Nanoscale Synthetic and Biological Components"
+  image: Conformation.png
+  description:  
+  authors: M.H. Ham, A.A. Boghossian, J.H. Choi, and M.S. Strano
+  link:
+    url: https://link.springer.com/referenceworkentry/10.1007/978-90-481-9751-4_220
+    display: Encyclopedia of Nanotechnology, Springer (2012)
   highlight: 0
   news2:  
   
@@ -442,7 +502,17 @@
     display: Energy and Environmental Science, 4, 3834-3843 (2011)
   highlight: 0
   news2:   
-  
+
+- title: "Dynamic Self-Assembly of Nanoscale Components for Solar Energy Conversion"
+  image: Conformation.png
+  description:  
+  authors: A.A. Boghossian, M.H. Ham, J.H. Choi, and M.S. Strano
+  link:
+    url: https://www.researchgate.net/publication/290143460_Dynamic_Self-Assembly_of_Nanoscale_Components_for_Solar_Energy_Conversion
+    display: Self-Healing at the Nanoscale: Mechanisms and Key Concepts of Natural and Artificial Systems, CRC Press, Taylor & Francis Group (2011)
+  highlight: 0
+  news2:  
+
 - title: "Dynamics and Reversible Self-Assembly of Photoelectrochemical Complexes on Lipid Bilayer Disks, Photosynthetic Reaction Centers, and Single-Walled Carbon Nanotubes"
   image: Conformation.png
   description:  
