@@ -81,13 +81,13 @@
   news2:  
   
 - title: "Auxetic Two-Dimensional Nanostructures from DNA"
-  image: Conformation.png
-  description:  
+  image: Auxetic.png
+  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
   authors: R. Li+, H. Chen+, and J.H. Choi
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202014729
     display:  Angewandte Chemie International Edition, 60, 7165-7173 (2021)
-  highlight: 0
+  highlight: 1
   news2:
   
   
@@ -644,26 +644,5 @@
     display: Annals of the New York Academy of Sciences, 934, 281-288 (2001)
   highlight: 0
   news2:   
-
-
-- title: ""
-  image: Conformation.png
-  description:  
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:   
-
-
-- title: "Auxetic Two‐Dimensional Nanostructures from DNA"
-  image: Auxetic.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: Ruixin Li, Haorong Chen, Jong Hyun Choi
-  link:
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202014729
-    display:  https://doi.org/10.1002/anie.202014729
-  highlight: 1
 
 
