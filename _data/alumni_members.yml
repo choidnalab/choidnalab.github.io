@@ -1,12 +1,23 @@
-- name: Hanyu Zhang
-  photo: HanyuZhang.jpg
-  duration: 
-  info: PhD (2016)
+- name: Feiran li
+  photo: Feiran.jpg
+  info: PhD (2020)
   email: 
-  number_educ: 2
-  education1: B.S. Purdue University (2010)
-  education2: M.S. Purdue University (2012)
+  duration: 
+  number_educ: 1
+  education1: B.S. Tsinghua University (2014) Biomedical Engineering
+  education2:
   education3:
+  education4:
+  
+- name: Jing Pan
+  photo: JingPan.jpg
+  info: PhD (2017)
+  duration: 
+  email: 
+  number_educ: 1
+  education1: B.S. Xi'an Jiaotong University (2011) Energy and Power Engineering
+  education2: 
+  education3: 
   education4:
 
 - name: Haorong Chen
@@ -19,46 +30,25 @@
   education2: 
   education3: 
 
-- name: Jing Pan
-  photo: JingPan.jpg
-  info: PhD (2017)
+- name: Hanyu Zhang
+  photo: HanyuZhang.jpg
   duration: 
+  info: PhD (2016)
   email: 
-  number_educ: 1
-  education1: B.S. Xi'an Jiaotong University (2011) Energy and Power Engineering
-  education2: 
-  education3: 
-  education4: 
-
-- name: Feiran li
-  photo: Feiran.jpg
-  info: PhD (2020)
-  email: 
-  duration: 
-  number_educ: 1
-  education1: B.S. Tsinghua University (2014) Biomedical Engineering
-  education2:
+  number_educ: 2
+  education1: B.S. Purdue University (2010)
+  education2: M.S. Purdue University (2012)
   education3:
   education4:
 
-- name: Haodong Du
+- name: Tae-Gon Cha
   photo: nopic.jpg
-  info: Phd
+  info: PhD (2014)
   email: 
   number_educ: 1
   duration: 
-  education1: B.S. Tsinghua University (2015) Engineering Mechanics
+  education1:
   education2: 
   education3:
   education4:
 
-- name: Tianyi Wang
-  photo: nopic.jpg
-  info: PhD
-  email: 
-  number_educ: 1
-  duration: 
-  education1: B.S. Tsinghua University (2016) Department of Precision Instrument
-  education2: 
-  education3:
-  education4:
