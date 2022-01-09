@@ -402,7 +402,7 @@
   highlight: 0
   news2:   
   
- - title: "DNA Oligonucleotide Templated Nanohybrids Using Electronic Type Sorted Carbon Nanotubes for Light Harvesting"
+- title: "DNA Oligonucleotide Templated Nanohybrids Using Electronic Type Sorted Carbon Nanotubes for Light Harvesting"
   image: Conformation.png
   description:  
   authors: H. Zhang+, B.A. Baker+, T.G. Cha, M.D. Sauffer, Y. Wu, N. Hinkson, M.A. Bork, C.M. McShane, K.S. Choi, D.R. McMillin, and J.H. Choi
@@ -655,52 +655,6 @@
     display: 
   highlight: 0
   news2:   
-
-
-- title: ""
-  image: Conformation.png
-  description:  
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:   
-
-- title: ""
-  image: Conformation.png
-  description:  
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 - title: "Auxetic Two‐Dimensional Nanostructures from DNA"
