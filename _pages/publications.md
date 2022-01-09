@@ -9,53 +9,6 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
-
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=aSHRXOkAAAAJ&hl=en))
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-
-
-
-## Full List of publications
-
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
@@ -65,6 +18,9 @@ permalink: /publications/
 
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+<em>Ternary Composite Materials, Supercapacitors Comprising The Same, and Methods for Producing Ternary Composite Materials and Supercapacitors</em><br />J. Ji, D. Houpt, J.H. Choi<br /> Provisional Patent Application (2021)
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em>Ultralow Concentration Sensing of Bio-Matter with Perovskite Nickelate Devices and Arrays</em><br />H. Zhang, F. Zuo, F. Li, J.H. Choi, S. Ramanathan<br /> WO/2020/131475 (2020)
+
+<em>Microbiosensors based on DNA Modified Single-Walled Carbon Nanotube and Pt Black Nanocomposites</em><br />D.M. Porterfield, T.G. Cha, J.H. Choi, J.C. Claussen, A.R. Diggs, J. Shi<br /> US 8882977 B2 (2014)
+
