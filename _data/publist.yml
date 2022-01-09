@@ -1,21 +1,21 @@
-- title: "Conformational Control of DNA Origami by DNA Oligomers, Intercalators and UV Light"
+- title: "High-Performance Supercapacitor Electrodes Based on Composites of MoS2 Nanosheets, Carbon Nanotubes, and ZIF-8 Metal-Organic Framework Nanoparticles"
   image: Conformation.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+  description: 
+  authors: D.N. Houpt+, J. Ji+, D. Yang, and J.H. Choi
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
+    url: https://pubs.acs.org/doi/10.1021/acsanm.1c04065
+    display: ACS Applied Nano Materials (2022)
   highlight: 0
   news2:
 
-- title: "Conformational Control of DNA Origami by DNA Oligomers, Intercalators and UV Light"
+- title: "Understanding the Effects of Dielectric Property, Separation Distance, and Band Alignment on Interlayer Excitons in 2D Hybrid MoS2/WSe2 Heterostructures"
   image: Conformation.png
-  description:  Recent studies have developed new mechanisms to modulate the origami conformation in a controllable, progressive manner. Here we present several methods for conformational control of DNA origami nanostructures including chemical adducts and UV light as well as widely applied DNA oligomers. The detailed methods should be useful for beginners in the field of DNA nanotechnology
-  authors: Ruixin Li, Haorong Chen, Hyeongwoon Lee, Jong Hyun Choi
+  description:  
+  authors: J. Ji and J.H. Choi
   link:
-    url: https://www.mdpi.com/2409-9279/4/2/38
-    display:   Methods and Protocols, 2021
-  highlight: 1
+    url: https://pubs.acs.org/doi/abs/10.1021/acsaelm.1c00282
+    display:   ACS Applied Electronic Materials (2021)
+  highlight: 0
   news2: 
 
 - title: "Auxetic Two‐Dimensional Nanostructures from DNA"
