@@ -254,7 +254,6 @@ Jump to [Graduate Students](#PhD_students), [Undergraduate Students](#master-and
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 <i> {{ member.info }}</i>
@@ -265,6 +264,3 @@ Jump to [Graduate Students](#PhD_students), [Undergraduate Students](#master-and
 
 </div>
 
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
