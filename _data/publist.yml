@@ -35,7 +35,7 @@
   authors: M. Zheng, Q. Li, Q. Li, V.E. Paluzzi, J.H. Choi, and C. Mao
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/marc.202100217
-    display:  Macromolecular Rapid Communications, 42, 2100217 (2021))
+    display:  Macromolecular Rapid Communications, 42, 2100217 (2021)
   highlight: 0
   news2: 
   
@@ -56,7 +56,7 @@
   authors: R. Li, H. Chen, H. Lee, and J.H. Choi
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/34067324/
-    display:  Methods and Protocols, 4, 38 (2021). 
+    display:  Methods and Protocols, 4, 38 (2021)
   highlight: 0
   news2:
   
@@ -332,16 +332,6 @@
   highlight: 0
   news2:  
   
-- title: "Understanding Photophysical Interactions of Semiconducting Carbon Nanotubes with Porphyrin Chromophores"
-  image: Conformation.png
-  description:  
-  authors: H. Zhang, M.A. Bork, K.J. Riedy, D.R. McMillin, and J.H. Choi
-  link:
-    url: https://docecity.com/understanding-photophysical-interactions-of-semiconducting-c-5f102e6350a5b.html
-    display: Journal of Physical Chemistry C, 118, 11612-11619 (2014)
-  highlight: 0
-  news2:  
-
 - title: "DNA Origami as Programmable Nanomanufacturing Tools"
   image: Conformation.png
   description:  
@@ -349,6 +339,16 @@
   link:
     url: https://link.springer.com/referenceworkentry/10.1007%2F978-94-007-6178-0_100907-1#:~:text=DNA%20Origami%20as%20Nanostencils%20for,to%20achieve%20much%20better%20resolution.
     display: Encyclopedia of Nanotechnology, Springer (2015)
+  highlight: 0
+  news2:  
+
+- title: "Understanding Photophysical Interactions of Semiconducting Carbon Nanotubes with Porphyrin Chromophores"
+  image: Conformation.png
+  description:  
+  authors: H. Zhang, M.A. Bork, K.J. Riedy, D.R. McMillin, and J.H. Choi
+  link:
+    url: https://docecity.com/understanding-photophysical-interactions-of-semiconducting-c-5f102e6350a5b.html
+    display: Journal of Physical Chemistry C, 118, 11612-11619 (2014)
   highlight: 0
   news2:  
   
