@@ -9,7 +9,6 @@ permalink: /team/
 # Group Members
 
 
-Jump to [Graduate Students](#PhD_students), [Undergraduate Students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
