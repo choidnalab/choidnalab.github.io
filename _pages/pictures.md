@@ -12,12 +12,14 @@ permalink: /pictures/
 ### Graduate Course Teaching
 
 ME 606: Radiation Heat Transfer <br />
-ME 505: Intermediate Heat Transfer
+ME 505: Intermediate Heat Transfer <br />
+ME 503: Micro and Nano Scale Energy Transfer Processes
 
 ### Undergraduate Course Teaching
   
-ME 497: Optical Nanomaterials <br />
-ME 305: Heat and Mass Transfer
+ME 498/499: Undergraduate Research in Nanotechnology <br />
+ME 463: Engineering Design <br />
+ME 315: Heat and Mass Transfer <br />
+ME 200: Thermodynamics I
 
-### Outreach
-Dr. Choi's lecture at the Science Cafe during NanoDays for K-12 students and their parents is archived in [NanoHUB](https://nanohub.org/resources/11235).
+
