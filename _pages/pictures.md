@@ -1,8 +1,8 @@
 ---
 title: "Choi Lab - Pictures"
-layout: piclay
+layout: homelay
 excerpt: "Choi Lab -- Pictures"
-permalink: /pictures/
+permalink: /
 ---
 
 
