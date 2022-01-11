@@ -19,4 +19,4 @@ permalink: /pictures/
 <li>ME 305: Heat and Mass Transfer
 
 ### Outreach
-Dr. Choi's lecture at the Science Cafe during NanoDays for K-12 students and their parents is archived in NanoHUB.
+Dr. Choi's lecture at the Science Cafe during NanoDays for K-12 students and their parents is archived in [NanoHUB](https://nanohub.org/resources/11235).
