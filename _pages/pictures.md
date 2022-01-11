@@ -6,10 +6,6 @@ permalink: /pictures/
 ---
 
 
-## Leiden
-
-
-#### Gallery
 
 
 
