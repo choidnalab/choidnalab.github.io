@@ -11,11 +11,12 @@ permalink: /pictures/
 
 ### Graduate Course Teaching
 
-<li>ME 606: Radiation Heat Transfer 
+<li>ME 606: Radiation Heat Transfer <br />
 <li>ME 505: Intermediate Heat Transfer
 
 ### Undergraduate Course Teaching
-<li>ME 497: Optical Nanomaterials
+  
+<li>ME 497: Optical Nanomaterials <br />
 <li>ME 305: Heat and Mass Transfer
 
 ### Outreach
