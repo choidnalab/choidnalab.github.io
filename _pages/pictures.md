@@ -5,9 +5,6 @@ excerpt: "Choi Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
-
 
 ## Leiden
 
@@ -54,11 +51,11 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 ### Graduate Course Teaching
 
-ME 606: Radiation Heat Transfer
+ME 606: Radiation Heat Transfer <br />
 ME 505: Intermediate Heat Transfer
 
 ### Undergraduate Course Teaching
-ME 497: Optical Nanomaterials
+ME 497: Optical Nanomaterials<br />
 ME 305: Heat and Mass Transfer
 
 ### Outreach
