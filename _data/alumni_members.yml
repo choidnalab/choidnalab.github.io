@@ -1,3 +1,25 @@
+- name: 1.	Duncan N. Houpt
+  photo: nopic.jpg
+  info: M.S. (2021)
+  email: 
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Hengming Qiu
+  photo: nopic.jpg
+  info: PhD (2020)
+  email: 
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
 - name: Feiran li
   photo: Feiran.jpg
   info: PhD (2020)
@@ -41,6 +63,18 @@
   education3:
   education4:
 
+
+- name: Jungwook Choi
+  photo: nopic.jpg
+  duration: 
+  info: Postdoc (2016)
+  email: 
+  number_educ: 1
+  education1: Current Position: Assistant Professor of Mechanical Engineering, Chung-Ang University, South Korea
+  education2: 
+  education3:
+  education4:
+  
 - name: Tae-Gon Cha
   photo: nopic.jpg
   info: PhD (2014)
