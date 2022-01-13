@@ -55,15 +55,14 @@ To this end, we develop novel spectroscopic-imaging scanning tunneling microscop
 Conatct: <br />
 Mechanical Engineering Building <br />
 Office: ME 2143, Lab: ME 3151 <br />
-[585 Purdue Mall] <br />
+[585 Purdue Mall](https://www.google.com/maps/place/Purdue+University+-+School+of+Mechanical+Engineering/@40.42818,-86.9129255,15z/data=!4m5!3m4!1s0x0:0x49f08a363af2d2a7!8m2!3d40.42818!4d-86.9129255) <br />
 [West Lafayette, IN 47907](https://www.google.com/maps/place/Purdue+University+-+School+of+Mechanical+Engineering/@40.42818,-86.9129255,15z/data=!4m5!3m4!1s0x0:0x49f08a363af2d2a7!8m2!3d40.42818!4d-86.9129255) <br />
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
  * We are  looking for passionate new PhD students, Postdocs, and Master students to join the team.
 
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from The United States National Science Foundation, Department of Defense and Department of Energy.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/358329.jpg" style="width: 210px">
