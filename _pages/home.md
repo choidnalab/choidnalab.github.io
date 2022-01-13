@@ -23,7 +23,7 @@ We are a dynamic research group at the [School of Mechanical Engineering](https:
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Labimg1.PNG" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LabImg1.PNG" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/img2.PNG" alt="Slide 2" />
