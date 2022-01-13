@@ -1,23 +1,6 @@
 - title: "Mechanical Metamaterials"
   image: 1_1.jpg
-  description: Architectured materials exhibit negative PoissonQs
-ratios and enhanced mechanical properties compared with
-regular materials. Their auxetic behaviors emerge from
-periodic cellular structures regardless of the materials used.
-The majority of such metamaterials are constructed by topdown
-approaches and macroscopic with unit cells of microns
-or larger. There are also molecular auxetics including natural
-crystals which are not designable. There is a gap from few
-nanometers to microns, which may be filled by biomolecular
-self-assembly. Herein, we demonstrate two-dimensional auxetic
-nanostructures using DNA origami. Structural reconfigurations
-are performed by two-step DNA reactions and
-complemented by mechanical deformation studies using
-molecular dynamics simulations. We find that the auxetic
-behaviors are mostly defined by geometrical designs, yet the
-properties of the materials also play an important role. From
-elasticity theory, we introduce design principles for auxetic
-DNA metamaterials.
+  description: Architectured materials exhibit negative PoissonQs ratios and enhanced mechanical properties compared with regular materials. Their auxetic behaviors emerge from periodic cellular structures regardless of the materials used. The majority of such metamaterials are constructed by topdown approaches and macroscopic with unit cells of microns or larger. From elasticity theory, we introduce design principles for auxetic DNA metamaterials.
   authors: 
   link:
     url: 
@@ -27,16 +10,7 @@ DNA metamaterials.
 
 - title: "Synthetic Biomaterials"
   image: 2_1.jpg
-  description: Chemotactic cell motility plays a critical role in many biological functions, such as immune response and
-embryogenesis. Constructing synthetic cell-mimicking systems, such as a dynamic protocell, likewise requires molecular
-mechanisms that respond to environmental stimuli and execute programmed motility behaviors. Although various molecular
-components were proposed to achieve diverse functions in synthetic protocells, chemotactic motility on surfaces has not been
-reported thus far. Here we show directional motility in synthetic lipid vesicles capable of chasing each other by programming
-DNA components. We demonstrate that the “follow” vesicle recognizes and migrates along the moving trajectory of the “lead”
-vesicle with an enhanced speed, thus mimicking natural chemotaxis in cell migration. This work provides new possibilities for
-building synthetic protocells with complex functions such as programmed morphogenesis and cooperative motion. With the
-vast library of dynamic DNA components, we envision that this platform will enable new discoveries in fundamental sciences
-and novel applications in biotechnology.
+  description: Chemotactic cell motility plays a critical role in many biological functions, such as immune response and embryogenesis. Constructing synthetic cell-mimicking systems, such as a dynamic protocell, likewise requires molecular mechanisms that respond to environmental stimuli and execute programmed motility behaviors. With the vast library of dynamic DNA components, we envision that this platform will enable new discoveries in fundamental sciences and novel applications in biotechnology.
   authors: 
   link:
     url: 
@@ -46,33 +20,7 @@ and novel applications in biotechnology.
   
 - title: "DNA Nanomachines"
   image: 3_1.jpg
-  description: Intracellular protein motors have evolved to perform specific
-tasks critical to the function of cells such as intracellular trafficking
-and cell division1,2. Kinesin and dynein motors, for
-example, transport cargoes in living cells by walking along
-microtubules powered by adenosine triphosphate hydrolysis3,4.
-These motors can make discrete 8 nm centre-of-mass steps
-and can travel over 1 mm by changing their conformations
-during the course of adenosine triphosphate binding, hydrolysis
-and product release5,6. Inspired by such biological machines,
-synthetic analogues have been developed including selfassembled
-DNA walkers that can make stepwise movements
-on RNA/DNA substrates7–12 or can function as programmable
-assembly lines13. Here, we show that motors based on RNAcleaving
-DNA enzymes14 can transport nanoparticle
-cargoes—CdS nanocrystals in this case—along single-walled
-carbon nanotubes. Our motors extract chemical energy from
-RNA molecules decorated on the nanotubes and use that
-energy to fuel autonomous, processive walking through a
-series of conformational changes along the one-dimensional
-track. The walking is controllable and adapts to changes in
-the local environment, which allows us to remotely direct ‘go’
-and ‘stop’ actions. The translocation of individual motors can
-be visualized in real time using the visible fluorescence of the
-cargo nanoparticle and the near-infared emission of the
-carbon-nanotube track.We observed unidirectional movements
-of the molecular motors over 3 mm with a translocation velocity
-on the order of 1 nm min21 under our experimental conditions.
+  description: Intracellular protein motors have evolved to perform specific tasks critical to the function of cells such as intracellular trafficking and cell division1,2. Inspired by such biological machines, synthetic analogues have been developed including selfassembled DNA walkers that can make stepwise movements on RNA/DNA substrates7–12 or can function as programmable assembly lines13. The walking is controllable and adapts to changes in the local environment, which allows us to remotely direct ‘go’ and ‘stop’ actions.
   authors: 
   link:
     url: 
@@ -83,16 +31,7 @@ on the order of 1 nm min21 under our experimental conditions.
 
 - title: "2D Materials"
   image: 4_1.jpg
-  description: Two-dimensional (2D) van der Waals heterostructures from transition metal dichalcogenide (TMDC)
-semiconductors show spatially separate excitons with extraordinary properties. The interlayer excitons (XI) have been studied
-extensively, yet the mechanisms that modulate XI are still not well understood. Here, we introduce several organic-layer-embedded
-hybrid heterostructures, MoS2/organic/WSe2, to study the binding energy of XI. We discover that the dielectric screening of the
-quasiparticle is reduced with organic molecules due to a decreased dielectric constant and greater separation distance between the
-TMDC layers. As a result, a distinct blueshift is observed in interlayer emission. We also find that the band alignment at the
-heterointerface is critical. When the organic layer provides a staggered energy state, interlayer charge transfer can transition from
-tunneling to band-assisted transfer, further increasing XI emission energies due to a stronger dipolar interaction. The formation of XI
-may also be significantly suppressed with electron or hole trapping molecules. These findings should be useful in realizing XI-based
-optoelectronics.
+  description: Two-dimensional (2D) van der Waals heterostructures from transition metal dichalcogenide (TMDC) semiconductors show spatially separate excitons with extraordinary properties. The interlayer excitons (XI) have been studied extensively, yet the mechanisms that modulate XI are still not well understood. Here, we introduce several organic-layer-embedded hybrid heterostructures, MoS2/organic/WSe2, to study the binding energy of XI. We discover that the dielectric screening of the quasiparticle is reduced with organic molecules due to a decreased dielectric constant and greater separation distance between the TMDC layers. As a result, a distinct blueshift is observed in interlayer emission.  These findings should be useful in realizing XI-based optoelectronics.
   authors: 
   link:
     url: 
