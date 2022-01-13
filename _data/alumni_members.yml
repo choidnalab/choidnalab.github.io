@@ -13,6 +13,7 @@
 - name: Hengming Qiu
   photo: hengming_qiu.jpg
   info: M.S. (2020)
+  info2: "Thesis: DNA Signal Induced Fusion and Aggregation Behaviors of Synthetic Cells"
   email: 
   duration: 
   number_educ: 0
@@ -24,6 +25,7 @@
 - name: Feiran li
   photo: Feiran.jpg
   info: PhD (2020)
+  info2: "Thesis: DNA Nanotechnology Enabled Molecular Mechanisms and Applications"
   email: 
   duration: 
   number_educ: 1
@@ -35,6 +37,7 @@
 - name: Jing Pan
   photo: JingPan.jpg
   info: PhD (2017)
+  info2: "Thesis: Biophysics of DNA Based Nanosystems Probed by Optical Nanoscopy"
   duration: 
   email: 
   number_educ: 1
@@ -46,6 +49,7 @@
 - name: Haorong Chen
   photo: HaorongChen.jpg
   info: PhD (2017)
+  info2: "Thesis: Mechanics and Dynamic Behaviors of DNA Origami"
   duration: 
   email: 
   number_educ: 1
@@ -57,6 +61,7 @@
   photo: HanyuZhang.jpg
   duration: 
   info: PhD (2016)
+  info2: "Thesis: Photoelectrochemical and Photophysical Studies of Carbon Nanotube and Molybdenum Disulfide Based Light Harvesting Devices"
   email: 
   number_educ: 2
   education1: B.S. Purdue University (2010)
@@ -69,6 +74,7 @@
   photo: jungwook_choi.jpg
   duration: 
   info: Postdoc (2016)
+  info2: ""
   email: 
   number_educ: 1
   education1: Current working as Assistant Professor of Mechanical Engineering, Chung-Ang University, South Korea
@@ -79,6 +85,7 @@
 - name: Tae-Gon Cha
   photo: tae-gon_cha.jpg
   info: PhD (2014)
+  info2: "Thesis: Optical Nanosystems for Biomolecular Reaction Studies"
   email: 
   number_educ: 2
   duration: 
@@ -90,6 +97,7 @@
 - name: Benjamin A. Baker
   photo: ben_baker.jpg
   info: M.S. (2011)
+  info2: "Thesis: Biotemplated Nanomaterials for Solar Energy Applications"
   email: 
   number_educ: 0
   duration: 
