@@ -71,7 +71,7 @@ permalink: /team/
 {% endif %}
 
 
-## Graduate Students
+## Graduate Students and Postdocs
 {% assign number_printed = 0 %}
 {% for member in site.data.PhD_students %}
 
@@ -186,7 +186,7 @@ permalink: /team/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
-</div>
+
 {% endif %}
 
 
