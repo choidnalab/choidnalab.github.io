@@ -4,8 +4,8 @@
   info2: "Thesis: Synthesis of High-Performance Supercapacitor Electrodes Using a CNT-ZIF-MoS2 Framework"
   email: 
   duration: 
-  number_educ: 0
-  education1: 
+  number_educ: 1
+  education1: "Current position: Research associate at Cuberg (Northvolt)"
   education2:
   education3:
   education4:
@@ -16,8 +16,8 @@
   info2: "Thesis: DNA Signal Induced Fusion and Aggregation Behaviors of Synthetic Cells"
   email: 
   duration: 
-  number_educ: 0
-  education1: 
+  number_educ: 1
+  education1: "Current position: Research associate at Elsie Bitotechnologies"
   education2:
   education3:
   education4:
@@ -29,7 +29,7 @@
   email: 
   duration: 
   number_educ: 1
-  education1: B.S. Tsinghua University (2014) Biomedical Engineering
+  education1: "Current position: Research scientist at Buckman Laboratories, Memphis TN"
   education2:
   education3:
   education4:
@@ -41,7 +41,7 @@
   duration: 
   email: 
   number_educ: 1
-  education1: B.S. Xi'an Jiaotong University (2011) Energy and Power Engineering
+  education1: "Current position: Assistant Professor of Mechanical and Aerospace Engineering, University of Florida "
   education2: 
   education3: 
   education4:
@@ -53,7 +53,7 @@
   duration: 
   email: 
   number_educ: 1
-  education1: B.S. Peking University (2011) Microelectronics
+  education1: "Current position: Postdoc at MIT Bioengineering with Prof. Chris Voigt (2017–2021)"
   education2: 
   education3: 
 
@@ -63,9 +63,9 @@
   info: PhD (2016)
   info2: "Thesis: Photoelectrochemical and Photophysical Studies of Carbon Nanotube and Molybdenum Disulfide Based Light Harvesting Devices"
   email: 
-  number_educ: 2
-  education1: B.S. Purdue University (2010)
-  education2: M.S. Purdue University (2012)
+  number_educ: 1
+  education1: "Current position: Research Scientist at First Solar "
+  education2: 
   education3:
   education4:
 
@@ -87,10 +87,10 @@
   info: PhD (2014)
   info2: "Thesis: Optical Nanosystems for Biomolecular Reaction Studies"
   email: 
-  number_educ: 2
+  number_educ: 1
   duration: 
-  education1: B.S. Seoul National University (2007)
-  education2: M.S. Seoul National University (2009)
+  education1: "Current position: Scientist at Stellate Biotherapeutics "
+  education2: 
   education3:
   education4:
 
@@ -99,9 +99,9 @@
   info: M.S. (2011)
   info2: "Thesis: Biotemplated Nanomaterials for Solar Energy Applications"
   email: 
-  number_educ: 0
+  number_educ: 1
   duration: 
-  education1: 
+  education1: "Current position: Research engineer at Lawrence Livermore National Laboratory"
   education2: 
   education3:
   education4:
