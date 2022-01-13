@@ -16,7 +16,7 @@ Here are some themes and techniques that we currently work on:
 
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.research_highlights %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
