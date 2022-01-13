@@ -151,6 +151,30 @@ permalink: /team/
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  </ul>
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -164,7 +188,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 
 {% endif %}
-
+</div>
 
 ## Former Graduate Students and Postdocs
 
