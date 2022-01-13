@@ -53,4 +53,3 @@ Here are some themes and techniques that we currently work on:
 
 <p> &nbsp; </p>
 
-### ... and more.
