@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Department of Mechanical Engineering, Purdue University](https://engineering.purdue.edu/ME). Our research is focused towards understanding DNA nanostructures and using DNA as building blocks to construct complex structures and study their properties.
+We are a dynamic research group at the [School of Mechanical Engineering](https://engineering.purdue.edu/ME), [Purdue University](https://www.purdue.edu/). Our research is focused towards understanding DNA nanostructures and using DNA as building blocks to construct complex structures and study their properties.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
