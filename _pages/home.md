@@ -61,7 +61,7 @@ We are looking for passionate new PhD students, Postdocs, and Master students to
 We are grateful for funding from the U.S. National Science Foundation, Department of Defense, and Department of Energy.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/358329.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nsf.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dnr1.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/doe.jpg" style="width: 120px">
   
