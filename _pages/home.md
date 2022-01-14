@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [School of Mechanical Engineering](https://engineering.purdue.edu/ME), [Purdue University](https://www.purdue.edu/). Our research is focused towards understanding DNA nanostructures and using DNA as building blocks to construct complex structures and study their properties.
+We are a dynamic research group in the [School of Mechanical Engineering](https://engineering.purdue.edu/ME), [Purdue University](https://www.purdue.edu/). Our research aims to develop programmable structures and advanced materials, and to use them for diverse applications including bioengineering, energy, and electronics. Our work intersects mechanical engineering and DNA nanotechnology, where we use DNA as engineering building blocks to construct complex structures such as architectured metamaterials and synthetic biomaterials. We are also interested in interfacial engineering on 2D materials including atomically thin hybrid heterostructures.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -48,21 +48,17 @@ We are a dynamic research group at the [School of Mechanical Engineering](https:
 
 
 
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-
 Conatct: <br />
-Mechanical Engineering Building <br />
+[Mechanical Engineering Building](https://www.google.com/maps/place/Purdue+University+-+School+of+Mechanical+Engineering/@40.42818,-86.9129255,15z/data=!4m5!3m4!1s0x0:0x49f08a363af2d2a7!8m2!3d40.42818!4d-86.9129255) <br />
 Office: ME 2143, Lab: ME 3151 <br />
-[585 Purdue Mall](https://www.google.com/maps/place/Purdue+University+-+School+of+Mechanical+Engineering/@40.42818,-86.9129255,15z/data=!4m5!3m4!1s0x0:0x49f08a363af2d2a7!8m2!3d40.42818!4d-86.9129255) <br />
-[West Lafayette, IN 47907](https://www.google.com/maps/place/Purdue+University+-+School+of+Mechanical+Engineering/@40.42818,-86.9129255,15z/data=!4m5!3m4!1s0x0:0x49f08a363af2d2a7!8m2!3d40.42818!4d-86.9129255) <br />
+585 Purdue Mall <br />
+West Lafayette, IN 47907 <br />
 
 
- * We are  looking for passionate new PhD students, Postdocs, and Master students to join the team.
+We are looking for passionate new PhD students, Postdocs, and Master students to join the team.
 
 
-We are grateful for funding from The United States National Science Foundation, Department of Defense and Department of Energy.
+We are grateful for funding from the U.S. National Science Foundation, Department of Defense, and Department of Energy.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/358329.jpg" style="width: 210px">
