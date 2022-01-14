@@ -62,7 +62,7 @@ We are grateful for funding from the U.S. National Science Foundation, Departmen
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nsf.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dnr1.jpg" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dnr1.jpg" style="width: 1800px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/doe.jpg" style="width: 110px">
   
 </figure>
