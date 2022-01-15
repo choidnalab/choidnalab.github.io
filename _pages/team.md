@@ -151,7 +151,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
 
-
+  {% endif %}
 
 
 ## Former Graduate Students and Postdocs
