@@ -23,18 +23,35 @@ We are a dynamic research group in the [School of Mechanical Engineering](https:
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LabImg1.PNG" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/img2.PNG" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/img3.PNG" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h3.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/img4.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h4.jpg" alt="Slide 4" />
         </div>
-        
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h5.jpg" alt="Slide 5" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h6.jpg" alt="Slide 6" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h7.jpg" alt="Slide 7" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h8.jpg" alt="Slide 8" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h9.jpg" alt="Slide 9" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h10.jpg" alt="Slide 10" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
