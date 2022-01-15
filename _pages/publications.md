@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 # Publications
-
+(Also see the list at [Google Scholar](https://scholar.google.com/citations?user=aSHRXOkAAAAJ&hl=en))
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
