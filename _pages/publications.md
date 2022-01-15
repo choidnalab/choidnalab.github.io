@@ -15,7 +15,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
+Also see the list at [Google Scholar](https://scholar.google.com/citations?user=aSHRXOkAAAAJ&hl=en)
 
 ## Patents
 Ternary Composite Materials, Supercapacitors Comprising The Same, and Methods for Producing Ternary Composite Materials and Supercapacitors<br /><em>J. Ji, D. Houpt, J.H. Choi</em><br />Provisional Patent Application (2021)
