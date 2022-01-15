@@ -1,16 +1,16 @@
 - title: "Mechanical Metamaterials"
   image: 1_1.jpg
-  description: Architectured materials exhibit negative PoissonQs ratios and enhanced mechanical properties compared with regular materials. Their auxetic behaviors emerge from periodic cellular structures regardless of the materials used. The majority of such metamaterials are constructed by topdown approaches and macroscopic with unit cells of microns or larger. From elasticity theory, we introduce design principles for auxetic DNA metamaterials.
+  description: Architectured materials exhibit negative Poisson’s ratios and enhanced mechanical properties compared with regular materials. Their auxetic properties emerge from periodic cellular structures. Most metamaterials are fabricated by top-down approaches and macroscopic with unit cells of microns or larger. We construct auxetic metastructures from DNA and study their mechanical properties and deformation behaviors toward general design principles for biomolecular metamaterials.
   authors: 
   link:
     url: 
     display: 
   highlight: 1
-  news2: See [Auxetic Two-Dimensional Nanostructures from DNA](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202014729)and[Topological Assembly of a Deployable Hoberman Flight Ring from DNA](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202007069)
+  news2: See [Auxetic Two-Dimensional Nanostructures from DNA](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202014729) and [Topological Assembly of a Deployable Hoberman Flight Ring from DNA](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202007069)
 
 - title: "Synthetic Biomaterials"
   image: 2_1.jpg
-  description: Chemotactic cell motility plays a critical role in many biological functions, such as immune response and embryogenesis. Constructing synthetic cell-mimicking systems, such as a dynamic protocell, likewise requires molecular mechanisms that respond to environmental stimuli and execute programmed motility behaviors. With the vast library of dynamic DNA components, we envision that this platform will enable new discoveries in fundamental sciences and novel applications in biotechnology.
+  description: Synthetic cell-mimicking systems can serve as a platform to study fundamental biology or to develop novel biomedical applications. Like biological cells, synthetic biosystems can move, sense, compute, and interact. We demonstrate artificial cells with complex functions by engineering functional DNA components such that, for example, they can respond to environments and execute programmed behaviors including self-organization and coordinated migration.
   authors: 
   link:
     url: 
@@ -20,7 +20,7 @@
   
 - title: "DNA Nanomachines"
   image: 3_1.jpg
-  description: Intracellular protein motors have evolved to perform specific tasks critical to the function of cells such as intracellular trafficking and cell division1,2. Inspired by such biological machines, synthetic analogues have been developed including selfassembled DNA walkers that can make stepwise movements on RNA/DNA substrates7–12 or can function as programmable assembly lines13. The walking is controllable and adapts to changes in the local environment, which allows us to remotely direct ‘go’ and ‘stop’ actions.
+  description: Protein motors have evolved to perform specific tasks critical to the cell function such as intracellular trafficking. Inspired by the biological machines, we develop synthetic analogues from DNA. The DNA machines can actively convert chemical energy into mechanical translocation in a series of conformational changes. We study their thermodynamics and kinetics as well as multifunctionality to establish design rules for programmable, autonomous, high-speed nanomachines.
   authors: 
   link:
     url: 
@@ -31,7 +31,7 @@
 
 - title: "2D Materials"
   image: 4_1.jpg
-  description: Two-dimensional (2D) van der Waals heterostructures from transition metal dichalcogenide (TMDC) semiconductors show spatially separate excitons with extraordinary properties. The interlayer excitons (XI) have been studied extensively, yet the mechanisms that modulate XI are still not well understood. Here, we introduce several organic-layer-embedded hybrid heterostructures, MoS2/organic/WSe2, to study the binding energy of XI. We discover that the dielectric screening of the quasiparticle is reduced with organic molecules due to a decreased dielectric constant and greater separation distance between the TMDC layers. As a result, a distinct blueshift is observed in interlayer emission.  These findings should be useful in realizing XI-based optoelectronics.
+  description: Two-dimensional (2D) van der Waals heterostructures from transition metal dichalcogenides (TMDs) show extraordinary properties that are distinct and different from those of bulk materials. For example, strong interlayer and intralayer excitons emerge from atomically thin layers. We study interfacial engineering that can control the properties of heterostructures as well as individual TMDs. Our work will help develop new materials for future electronics and energy applications.
   authors: 
   link:
     url: 
