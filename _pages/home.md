@@ -38,22 +38,19 @@ We are a dynamic research group in the [School of Mechanical Engineering](https:
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h5.jpg" alt="Slide 5" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h11.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h6.jpg" alt="Slide 6" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h6.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h7.jpg" alt="Slide 7" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h7.jpg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h8.jpg" alt="Slide 8" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h8.jpg" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h9.jpg" alt="Slide 9" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h9.jpg" alt="Slide 10" />
-        </div>
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h10.jpg" alt="Slide 11" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/h10.jpg" alt="Slide 10" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
