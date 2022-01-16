@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group in the [School of Mechanical Engineering](https://engineering.purdue.edu/ME), [Purdue University](https://www.purdue.edu/). Our research aims to develop programmable structures and advanced materials, and to use them for diverse applications including bioengineering, energy, and electronics. Our work intersects mechanical engineering and DNA nanotechnology, where we use DNA as engineering building blocks to construct complex structures such as architectured metamaterials and synthetic biomaterials. We are also interested in interfacial engineering on 2D materials including atomically thin hybrid heterostructures.
+We are a dynamic research group in the [School of Mechanical Engineering](https://engineering.purdue.edu/ME), [Purdue University](https://www.purdue.edu/). Our research aims to develop programmable structures and advanced materials, and to use them for diverse applications including bioengineering, energy, and electronics. Our work intersects mechanical engineering and DNA nanotechnology, where we use DNA as engineering building blocks to construct complex structures such as architectured metamaterials and synthetic biomaterials. We are also interested in interfacial engineering on 2D materials toward programmable nanomanufacturing.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
