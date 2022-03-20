@@ -8,4 +8,4 @@ permalink: /labdata.html
 
 # Lab Data
 
-2D Heterostructure Preparation <a href="{{ site.url }}{{ site.baseurl }}/labdata/2D Heterostructure Preparation.pptx">pdf</a>
+2D Heterostructure Preparation <a href="{{ site.url }}{{ site.baseurl }}/labdata/Folding DNA into Twisted and Curved Nanoscale Shapes.pdf">pdf</a>
