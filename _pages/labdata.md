@@ -8,4 +8,4 @@ permalink: /labdata.html
 
 # Lab Data
 
-This is <a href="{{ site.url }}{{ site.baseurl }}/images/test.pdf">example</a>
+2D Heterostructure Preparation <a href="{{ site.url }}{{ site.baseurl }}/labdata/2D Heterostructure Preparation.pdf">pdf</a>
