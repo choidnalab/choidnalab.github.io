@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Lab Data"
 layout: textlay
 excerpt: "Choi Laboratory Purdue University."
 sitemap: false
@@ -17,3 +17,6 @@ DNA CNT (direct sonication) length sorting Protocol <a href="{{ site.url }}{{ si
 Photo Reactor Preparation Protocol <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Photo_Reactor_Preparation_protocol.pdf">pdf</a><br>
 Supercapacitor <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Supercapacitor.pdf">pdf</a><br>
 Tris Buffer Preparation Protocol <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Tris_Buffer_Preparation_Protocol.pdf">pdf</a><br>
+Length Sorting Sample <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Length_sorting_sample.xlsx">excel</a><br>
+Lipid PEG Stock Item <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Lipid_PEG_Stock_Item.xlsx">excel</a><br>
+QD Diameter and Concentration <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/QD_diameter_and_concentration.xlsx">excel</a>
