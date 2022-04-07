@@ -23,3 +23,6 @@ QD Diameter and Concentration <a href="{{ site.url }}{{ site.baseurl }}/images/l
 ## Methods
 
 Conductive and surface potential measurement of AFM <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Conductive_and_surface_potential_measurement_of_AFM.pdf">pdf</a><br>
+Photoconductive AFM <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/photoconductive_AFM.pdf">pdf</a><br>
+Raman_microscope <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Raman_microscope.pdf">pdf</a><br>
+Spectrophotometer <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Spectrophotometer.pdf">pdf</a><br>
