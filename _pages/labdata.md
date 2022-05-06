@@ -8,10 +8,11 @@ permalink: /labdata.html
 
 # Lab Data
 
-## Materials
-Apparatus Instructions <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Apparatus_Instructions.pdf">pdf</a><br>
-Materials Sample Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Materials_Sample_Preparation.pdf">pdf</a><br>
+## Bio Materials
+DNA Origami <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_1_dna_origami.pdf">pdf</a><br>
+Buffers <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_2_buffers.pdf">pdf</a><br>
 
+## Nano Materials
 DNA CNT (direct sonication) length sorting Protocol <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/DNA_CNT_direct_sonication_length_sorting_Protocol.pdf">pdf</a><br>
 2D Heterostructure Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2D_Heterostructure_Preparation.pdf">pdf</a><br>
 CNT Dialysis length sorting Protocol <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/CNT_Dialysis_length_sorting_Protocol.pdf">pdf</a><br>
