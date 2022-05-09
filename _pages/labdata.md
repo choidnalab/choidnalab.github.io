@@ -13,16 +13,11 @@ DNA Origami <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_1_dna_ori
 Buffers <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_2_buffers.pdf">pdf</a><br>
 
 ## Nano Materials
-DNA CNT (direct sonication) length sorting Protocol <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/DNA_CNT_direct_sonication_length_sorting_Protocol.pdf">pdf</a><br>
-2D Heterostructure Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2D_Heterostructure_Preparation.pdf">pdf</a><br>
-CNT Dialysis length sorting Protocol <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/CNT_Dialysis_length_sorting_Protocol.pdf">pdf</a><br>
-CNT Sample Prep Protocol <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/CNT_Sample_Prep_Protocol.pdf">pdf</a><br>
-Photo Reactor Preparation Protocol <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Photo_Reactor_Preparation_protocol.pdf">pdf</a><br>
-Supercapacitor Material Synthesis<a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Supercapacitor.pdf">pdf</a><br>
-Tris Buffer Preparation Protocol <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Tris_Buffer_Preparation_Protocol.pdf">pdf</a><br>
-Length Sorting Sample <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Length_sorting_sample.xlsx">excel</a><br>
-Lipid PEG Stock Item <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Lipid_PEG_Stock_Item.xlsx">excel</a><br>
-QD Diameter and Concentration <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/QD_diameter_and_concentration.xlsx">excel</a>
+SWCNT Sample Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_1_cnt_sample_preparation.pdf">pdf</a><br>
+SWCNT Dialysis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_2_swcnt_dialysis.pdf">pdf</a><br>
+Length Sorting of SWCNTs<a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_3_length_sorting.pdf">pdf</a><br>
+2D Heterostructure Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_4_2d_heterostructure_preparation.pdf">pdf</a><br>
+Supercapacitor Material Synthesis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_5_supercapacitor.pdf">pdf</a><br>
 
 ## Methods
 AFM Dry Imaging <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_2_afm_dry_imaging.pdf">pdf</a><br>
