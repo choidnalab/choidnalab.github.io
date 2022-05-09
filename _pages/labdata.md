@@ -28,11 +28,12 @@ QD Diameter and Concentration <a href="{{ site.url }}{{ site.baseurl }}/images/l
 AFM Dry Imaging <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_2_afm_dry_imaging.pdf">pdf</a><br>
 AFM Liquid Imaging <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_3_afm_liquid_imaging.pdf">pdf</a><br>
 AFM Nanoindentation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_4_afm_nanoindentation.pdf">pdf</a><br>
+Photoconductive AFM <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_11_photoconductive_afm.pdf">pdf</a><br>
+Conductive and Surface Potential Measurement of AFM <a href="{{ site.url }}{{ site.baseurl}}/images/labdata/3_12_conductive_and_surface_potential_measurement_of_afm.pdf">pdf</a><br>
 Thermal Cycler and UVP Lamp <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_5_thermal_cycler_uvp_lamp.pdf">pdf</a><br>
 Agarose Gel Equipment <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_6_agarose_gel_equipment.pdf">pdf</a><br>
 Centrifuges <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_7_centrifuge.pdf">pdf</a><br>
 Raman Microscope <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_8_raman_microscope.pdf">pdf</a><br>
 Spectrophotometer <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_9_spectrophotometer.pdf">pdf</a><br>
-Photoconductive AFM <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_11_photoconductive_afm.pdf">pdf</a><br>
-Conductive and Surface Potential Measurement of AFM <a href="{{ site.url }}{{ site.baseurl}}/images/labdata/3_12_conductive_and_surface_potential_measurement_of_afm.pdf">pdf</a><br>
+
 
