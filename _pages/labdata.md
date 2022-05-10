@@ -19,7 +19,7 @@ Length Sorting of SWCNTs<a href="{{ site.url }}{{ site.baseurl }}/images/labdata
 2D Heterostructure Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_4_2d_heterostructure_preparation.pdf">pdf</a><br>
 Supercapacitor Material Synthesis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_5_supercapacitor.pdf">pdf</a><br>
 
-## Methods
+## Instrumentation
 AFM Dry Imaging <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_2_afm_dry_imaging.pdf">pdf</a><br>
 AFM Liquid Imaging <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_3_afm_liquid_imaging.pdf">pdf</a><br>
 AFM Nanoindentation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_4_afm_nanoindentation.pdf">pdf</a><br>
