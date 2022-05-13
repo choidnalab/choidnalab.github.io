@@ -11,6 +11,8 @@ permalink: /labdata.html
 ## Bio Materials
 DNA Origami <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_1_dna_origami.pdf">pdf</a><br>
 Buffers <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_2_buffers.pdf">pdf</a><br>
+Nucleic Acid Modfication Synthesis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_3_nueclic_acid_modfication_synthesis.pdf">pdf</a><br>
+Lipid Vesicle Synthesis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_4_lipid_vesicle_synthesis.pdf">pdf</a><br>
 Imaging Surface Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_5_imaging_surface_preparation.pdf">pdf</a><br>
 Protein Stability <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_6_protein_stability.pdf">pdf</a><br>
 
