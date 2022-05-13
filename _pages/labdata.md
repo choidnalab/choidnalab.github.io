@@ -11,6 +11,8 @@ permalink: /labdata.html
 ## Bio Materials
 DNA Origami <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_1_dna_origami.pdf">pdf</a><br>
 Buffers <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_2_buffers.pdf">pdf</a><br>
+Imaging Surface Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_5_imaging_surface_preparation.pdf">pdf</a><br>
+Protein Stability <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_6_protein_stability.pdf">pdf</a><br>
 
 ## Nano Materials
 SWCNT Sample Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_1_cnt_sample_preparation.pdf">pdf</a><br>
@@ -18,6 +20,7 @@ SWCNT Dialysis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_2_swcn
 Length Sorting of SWCNTs<a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_3_length_sorting.pdf">pdf</a><br>
 2D Heterostructure Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_4_2d_heterostructure_preparation.pdf">pdf</a><br>
 Supercapacitor Material Synthesis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_5_supercapacitor.pdf">pdf</a><br>
+Quantum Dot Synthesis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_6_quantum_dot_synthesis.pdf">pdf</a><br>
 
 ## Instrumentation
 AFM Dry Imaging <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_2_afm_dry_imaging.pdf">pdf</a><br>
