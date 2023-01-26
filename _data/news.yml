@@ -65,7 +65,7 @@
   headline: Ruixin passed his preliminary exam. 
 
 - date: March 2021
-  headline: Ruixin’s Hoberman flight ring paper is published in Small. His MD simulation work is also published in Applied Sciences.
+  headline: Ruixin’s <a href="{{ https://engineering.purdue.edu/ME/News/2021/first-ever-nanoscale-hoberman-structure-built-out-of-dna-origami }}"> Hoberman flight ring </a> paper is published in Small. His MD simulation work is also published in Applied Sciences.
 
 - date: March 2021
   headline: Jaehoon was selected for the Estus H. And Vashti L. Magoon Award for Excellence in Teaching. 
