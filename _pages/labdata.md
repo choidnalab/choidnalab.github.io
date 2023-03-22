@@ -39,8 +39,8 @@ Raman Microscope <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_
 Spectrophotometer <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_11_spectrophotometer.pdf">pdf</a><br>
 
 ## Lab Safety Protocols
-Choi's Lab Safety Training Guide <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Chois_lab_Safety_training.pdf">pdf</a><br>
-Chemical Hygiene Plan <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/1_chemical_hygiene_plan.pdf">pdf</a><br>
-Hazard Communication Program <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_hazard_communication_program.pdf">pdf</a><br>
-PPE Policy <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_PPE_policy.pdf">pdf</a><br>
+Choi's Lab Safety Training Guide <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/4_1_Chois_lab_Safety_training.pdf">pdf</a><br>
+Chemical Hygiene Plan <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/4_2_chemical_hygiene_plan.pdf">pdf</a><br>
+Hazard Communication Program <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/4_3_hazard_communication_program.pdf">pdf</a><br>
+PPE Policy <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/4_4_PPE_policy.pdf">pdf</a><br>
 
