@@ -26,17 +26,17 @@ Supercapacitor Material Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data
 Quantum Dot Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/2_7_quantum_dot_synthesis.pdf">pdf</a><br>
 
 ## Instrumentation
-AFM Dry Imaging <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_2_afm_dry_imaging.pdf">pdf</a><br>
-AFM Liquid Imaging <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_3_afm_liquid_imaging.pdf">pdf</a><br>
-AFM Nanoindentation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_4_afm_nanoindentation.pdf">pdf</a><br>
-Photoconductive AFM <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_11_photoconductive_afm.pdf">pdf</a><br>
-Conductive and Surface Potential Measurement of AFM <a href="{{ site.url }}{{ site.baseurl}}/images/labdata/3_12_Conductive and surface potential measurement of AFM.pdf">pdf</a><br>
-Thermal Cycler <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_5_thermal_cycler.pdf">pdf</a><br>
-UVP Lamp <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_5_1_uvp_lamp.pdf">pdf</a><br>
-Agarose Gel Equipment <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_6_agarose_gel_equipment.pdf">pdf</a><br>
-Centrifuges <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_7_centrifuge.pdf">pdf</a><br>
-Raman Microscope <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_8_raman_microscope.pdf">pdf</a><br>
-Spectrophotometer <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_9_spectrophotometer.pdf">pdf</a><br>
+AFM Dry Imaging <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_1_afm_dry_imaging.pdf">pdf</a><br>
+AFM Liquid Imaging <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_2_afm_liquid_imaging.pdf">pdf</a><br>
+AFM Nanoindentation <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_3_afm_nanoindentation.pdf">pdf</a><br>
+Photoconductive AFM <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_4_photoconductive_afm.pdf">pdf</a><br>
+Conductive and Surface Potential Measurement of AFM <a href="{{ site.url }}{{ site.baseurl}}/data/protocols/pdf/3_5_conductive_and_surface_potential_measurement_of_AFM.pdf">pdf</a><br>
+Thermal Cycler <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_6_thermal_cycler.pdf">pdf</a><br>
+UVP Lamp <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_7_uvp_lamp.pdf">pdf</a><br>
+Agarose Gel Equipment <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_8_agarose_gel_equipment.pdf">pdf</a><br>
+Centrifuges <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_9_centrifuge.pdf">pdf</a><br>
+Raman Microscope <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_10_raman_microscope.pdf">pdf</a><br>
+Spectrophotometer <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/3_11_spectrophotometer.pdf">pdf</a><br>
 
 ## Lab Safety Protocols
 Choi's Lab Safety Training Guide <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/Chois_lab_Safety_training.pdf">pdf</a><br>
