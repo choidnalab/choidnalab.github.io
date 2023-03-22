@@ -17,13 +17,13 @@ Imaging Surface Preparation <a href="{{ site.url }}{{ site.baseurl }}/data/proto
 Protein Stability <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_6_protein_stability.pdf">pdf</a><br>
 
 ## Nano Materials
-SWCNT Sample Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_1_cnt_sample_preparation.pdf">pdf</a><br>
-SWCNT Dialysis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_2_swcnt_dialysis.pdf">pdf</a><br>
-Length Sorting of SWCNTs<a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_3_length_sorting.pdf">pdf</a><br>
-Choi Group Data-CNT<a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_7_choi_group_data_CNT.pdf">pdf</a><br>
-2D Heterostructure Preparation <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_4_2d_heterostructure_preparation.pdf">pdf</a><br>
-Supercapacitor Material Synthesis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_5_supercapacitor.pdf">pdf</a><br>
-Quantum Dot Synthesis <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/2_6_quantum_dot_synthesis.pdf">pdf</a><br>
+SWCNT Sample Preparation <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/2_1_cnt_sample_preparation.pdf">pdf</a><br>
+SWCNT Dialysis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/2_2_swcnt_dialysis.pdf">pdf</a><br>
+Length Sorting of SWCNTs<a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/2_3_length_sorting.pdf">pdf</a><br>
+Choi Group Data-CNT<a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/2_4_choi_group_data_CNT.pdf">pdf</a><br>
+2D Heterostructure Preparation <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/2_5_2d_heterostructure_preparation.pdf">pdf</a><br>
+Supercapacitor Material Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/2_6_supercapacitor.pdf">pdf</a><br>
+Quantum Dot Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/2_7_quantum_dot_synthesis.pdf">pdf</a><br>
 
 ## Instrumentation
 AFM Dry Imaging <a href="{{ site.url }}{{ site.baseurl }}/images/labdata/3_2_afm_dry_imaging.pdf">pdf</a><br>
