@@ -9,7 +9,7 @@ permalink: /labdata.html
 # Lab Data
 
 ## Bio Materials
-DNA Origami <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/word_docs/1_1_dna_origami.docx">pdf</a><br>
+DNA Origami <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_1_dna_origami.pdf">pdf</a><br>
 Buffers <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_2_buffers.pdf">pdf</a><br>
 Nucleic Acid Modfication Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_3_nueclic_acid_modfication_synthesis.pdf">pdf</a><br>
 Lipid Vesicle Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_4_lipid_vesicle_synthesis.pdf">pdf</a><br>
