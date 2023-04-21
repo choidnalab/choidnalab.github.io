@@ -12,9 +12,12 @@ permalink: /labdata.html
 DNA Origami <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_1_dna_origami.pdf">pdf</a><br>
 Buffers <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_2_buffers.pdf">pdf</a><br>
 Nucleic Acid Modfication <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_3_nueclic_acid_modification_synthesis.pdf">pdf</a><br>
-Lipid Vesicle Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_4_GUV Synthesi_Protocol.pdf">pdf</a><br>
+Lipid Vesicle Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_4_GUV Synthesis_Protocol.pdf">pdf</a><br>
 Imaging Surface Preparation <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_5_imaging_surface_preparation.pdf">pdf</a><br>
 Protein Stability <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_6_protein_stability.pdf">pdf</a><br>
+RCA Protocol <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_7_RCA_Protocol.pdf">pdf</a><br>
+dPAGE Protocol <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_8_dPAGE Protocol.pdf">pdf</a><br>
+Crystal Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_9_DNA_crystal_synthesis.pdf">pdf</a><br>
 
 ## Nano Materials
 SWCNT Sample Preparation <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/2_1_cnt_sample_preparation.pdf">pdf</a><br>
