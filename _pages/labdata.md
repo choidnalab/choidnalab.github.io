@@ -16,7 +16,7 @@ Lipid Vesicle Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols
 Imaging Surface Preparation <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_5_imaging_surface_preparation.pdf">pdf</a><br>
 Protein Stability <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_6_protein_stability.pdf">pdf</a><br>
 RCA Protocol <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_7_RCA_Protocol.pdf">pdf</a><br>
-RCA Calculations <a href='{{ site.url }}{{ site.baseurl }}/data/protocols/Excel/RCA_protocol_calculations.xlsx' target="_blank">Download</a><br>
+RCA Calculations <a href='{{ site.url }}{{ site.baseurl }}/data/protocols/Excel/RCA_protocol_calculations.xlsx' target="_blank">Downloads</a><br>
 dPAGE Protocol <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_8_dPAGE Protocol.pdf">pdf</a><br>
 Crystal Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_9_DNA_crystal_synthesis.pdf">pdf</a><br>
 
