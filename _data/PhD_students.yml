@@ -28,12 +28,6 @@
   number_educ: 1
   education1: B.S. Mechanical Engineering, Indian Institute of Technology Tirupati (2021)
  
-- name: Harshith Kumar Adepu
-  photo: harshith.jpg
-  info: PhD Student
-  email: 
-  number_educ: 1
-  education1: B.S. Mechanical Engineering, National Institute of Technology Warangal (2021)
   
 - name: Sewon Park
   photo: sewon_park.jpg
@@ -49,10 +43,4 @@
   email: 
   number_educ: 1
   education1: B.S. Materials Science and Engineering, University of Illinois Urbana-Champaign (2022)
-  
-- name: Aishwary Shrivastava
-  photo: aishwary.jpg
-  info: M.S. Student
-  email: 
-  number_educ: 1
-  education1: B.S. Mechanical Engineering, IIITDM Jabalpur (2022)
+ 
