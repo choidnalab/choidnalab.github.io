@@ -1,3 +1,28 @@
+- name: Ruixin Li
+  photo: ruixin.jpg
+  info: PhD (2023)
+  info2: "Thesis: Designs and Mechanics of Architectured DNA Assemblies"
+  email: 
+  duration: 
+  number_educ: 1
+  education1: "Current position: Seismic Imaging Analyst, CGG Services"
+  education2:
+  education3:
+  education4:
+
+
+- name: Jaehoon Ji
+  photo: jaehoon_ji.jpg
+  info: PhD (2023)
+  info2: "Thesis: Optoelectronic and Electrochemical Properties of Hybrid Transition Metal Dichalcogenide Heterostructures"
+  email: 
+  duration: 
+  number_educ: 1
+  education1: "Current position: Postdoc Princeton University"
+  education2:
+  education3:
+  education4:
+
 - name: Duncan N. Houpt
   photo: duncan.jpg
   info: M.S. (2021)
