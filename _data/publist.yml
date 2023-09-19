@@ -1,13 +1,24 @@
-- title: "Mechanics of Dynamic and Deformable DNA Nanostructures"
+- title: "Morphology Engineering of Hybrid Supercapacitor Electrodes from Hierarchical Stem-like Carbon Networks with Flower-like MoS2 Structures"
+  image: Conformation.png
+  description: 
+  authors: J. Ji, S. Park, J.H. Choi
+  link:
+    url: https://doi.org/10.1021/acsaem.3c01858
+    display: ACS Omega (2023)
+  highlight: 0
+  news2:
+
+- title: "Mechanics of dynamic and deformable DNA nanostructures"
   image: Conformation.png
   description: 
   authors: R. Li, A.S. Madhvacharyula, Y. Du, H.K. Adepu, and J.H. Choi
   link:
-    url: https://chemrxiv.org/engage/chemrxiv/article-details/6360d8ceac45c7c838a07f63
-    display: ChemRxiv (2022)
+    url: https://doi.org/10.1039/D3SC01793A 8
+    display: Chemical Science (2023)
   highlight: 0
   news2:
 
+  
 - title: "Mechanical Deformation Behaviors and Structural Properties of Ligated DNA Crystals"
   image: Conformation.png
   description: 
