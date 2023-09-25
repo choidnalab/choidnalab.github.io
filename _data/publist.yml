@@ -1,3 +1,15 @@
+- title: "Motility of Synthetic Cells from Engineered Lipids"
+  image: Conformation.png
+  description: 
+  authors: A. Shrivastava, H.K. Adepu, R. Li, A.S. Madhvacharyula, A.A. Swett, J.H. Choi
+  link:
+    url: https://doi.org/10.1021/acssynbio.3c00271
+    display: ACS Synthetic Biology (2023)
+  highlight: 0
+  news2:
+
+
+
 - title: "Morphology Engineering of Hybrid Supercapacitor Electrodes from Hierarchical Stem-like Carbon Networks with Flower-like MoS2 Structures"
   image: Conformation.png
   description: 
@@ -13,7 +25,7 @@
   description: 
   authors: R. Li, A.S. Madhvacharyula, Y. Du, H.K. Adepu, and J.H. Choi
   link:
-    url: https://doi.org/10.1039/D3SC01793A 8
+    url: https://doi.org/10.1039/D3SC01793A
     display: Chemical Science (2023)
   highlight: 0
   news2:
