@@ -1,12 +1,4 @@
 
-  
-- name: Yancheng Du
-  photo: yancheng.jpg
-  info: PhD Student
-  email: 
-  number_educ: 1
-  education1: B.S. Mechanical Engineering, Tsinghua University (2017)
-
 
 - name: Anirudh Sampath Madhavacharyula
   photo: anirudh.jpg
@@ -47,4 +39,12 @@
   education1: B.S. Mechanical Engineering, Ulsan National Institute of Science and Technology (2018)
   education2: M.S. Mechanical Engineering, Ulsan National Institute of Science and Technology (2020)
 
-
+  
+- name: Mallikarjuna R. Kesama
+  photo: nopic.jpg
+  info: Postdoctoral researcher
+  email: 
+  number_educ: 3
+  education1: PhD Physics at SKKU (2019)
+  education2: MSc Physics at Sri Venkateswara University (2009)
+  education3: BSc Physics at Sri Venkateswara University (2006)
