@@ -23,13 +23,6 @@
   number_educ: 1
   education1: B.S. Materials Science and Engineering, University of Illinois Urbana-Champaign (2022)
 
-- name: Yoo Hyun Kim
-  photo: YooHyun.jpg
-  info: Master's Student
-  email: 
-  number_educ: 1
-  education1: B.S. Mechanical Engineering, Purdue University (2022)
-
  
 - name: Seongmin Seo
   photo: Seongmin.jpg
@@ -38,6 +31,13 @@
   number_educ: 2
   education1: B.S. Mechanical Engineering, Ulsan National Institute of Science and Technology (2018)
   education2: M.S. Mechanical Engineering, Ulsan National Institute of Science and Technology (2020)
+
+- name: Yoo Hyun Kim
+  photo: YooHyun.jpg
+  info: MS Student
+  email: 
+  number_educ: 1
+  education1: B.S. Mechanical Engineering, Purdue University (2022)
 
   
 - name: Mallikarjuna R. Kesama
