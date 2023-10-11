@@ -17,10 +17,10 @@ permalink: /publications/
 {% endfor %}
 
 ## Patents
-Ternary Composite Materials, Supercapacitors Comprising The Same, and Methods for Producing Ternary Composite Materials and Supercapacitors<br /><em>J. Ji, D. Houpt, J.H. Choi</em><br />Provisional Patent Application (2021)
+Ternary Composite Material, Supercapacitor, and Related Methods<br /><em>J.H. Choi, D. Houpt, J. Ji</em><br />US 2023/0187146 A1 
   
-Ultralow Concentration Sensing of Bio-Matter with Perovskite Nickelate Devices and Arrays<br /><em>H. Zhang, F. Zuo, F. Li, J.H. Choi, S. Ramanathan</em><br /> WO/2020/131475 (2020)
+Ultralow Concentration Sensing of Bio-Matter with Perovskite Nickelate Devices and Arrays<br /><em>H. Zhang, F. Zuo, F. Li, J.H. Choi, S. Ramanathan</em><br /> US 2022/0025425 A1 
   
-Microbiosensors based on DNA Modified Single-Walled Carbon Nanotube and Pt Black Nanocomposites<br /><em>D.M. Porterfield, T.G. Cha, J.H. Choi, J.C. Claussen, A.R. Diggs, J. Shi</em><br /> US 8882977 B2 (2014)
+Microbiosensors based on DNA Modified Single-Walled Carbon Nanotube and Pt Black Nanocomposites<br /><em>D.M. Porterfield, T.G. Cha, J.H. Choi, J.C. Claussen, A.R. Diggs, J. Shi</em><br /> US 8882977 B2 
 
   <br />
