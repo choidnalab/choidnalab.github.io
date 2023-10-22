@@ -67,7 +67,7 @@ We are a dynamic research group in the [School of Mechanical Engineering](https:
 
 Conatct: <br />
 [Mechanical Engineering Building](https://www.google.com/maps/place/Purdue+University+-+School+of+Mechanical+Engineering/@40.42818,-86.9129255,15z/data=!4m5!3m4!1s0x0:0x49f08a363af2d2a7!8m2!3d40.42818!4d-86.9129255) <br />
-Office: ME 2143, Lab: ME 3151 <br />
+Lab: ME 3151 <br />
 585 Purdue Mall <br />
 West Lafayette, IN 47907 <br />
 
