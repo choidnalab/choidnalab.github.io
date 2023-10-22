@@ -72,7 +72,7 @@ Lab: ME 3151 <br />
 West Lafayette, IN 47907 <br />
 
 
-We are looking for passionate new PhD students, Postdocs, and Master students to join the team.
+We are looking for passionate PhD students, Postdocs, and Master students to join the team.
 
 
 We are grateful for funding from the U.S. National Science Foundation, Department of Defense, and Department of Energy.
