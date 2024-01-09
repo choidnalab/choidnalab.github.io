@@ -1,7 +1,19 @@
+- title: "DNA Nanostar Structures with Tunable Auxetic Properties"
+  image: Conformation.png
+  description: 
+  authors: Y. Du, R. Li, A.S. Madhvacharyula, A.A. Swett, J.H. Choi
+  link:
+    url: https://doi.org/10.1101/2023.12.22.573109
+    display: bioRxiv (2023)
+  highlight: 0
+  news2:
+
+
+
 - title: "Motility of Synthetic Cells from Engineered Lipids"
   image: Conformation.png
   description: 
-  authors: A. Shrivastava, H.K. Adepu, R. Li, A.S. Madhvacharyula, A.A. Swett, J.H. Choi
+  authors: A. Shrivastava, Y. Du, H.K. Adepu, R. Li, A.S. Madhvacharyula, A.A. Swett, J.H. Choi
   link:
     url: https://doi.org/10.1021/acssynbio.3c00271
     display: ACS Synthetic Biology, 12, 2789-2801 (2023)
