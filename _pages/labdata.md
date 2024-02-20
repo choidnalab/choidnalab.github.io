@@ -19,6 +19,7 @@ RCA Protocol <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_7_RC
 RCA Calculations <a href='{{ site.url }}{{ site.baseurl }}/data/protocols/Excel/RCA_protocol_calculations.xlsx' target="_blank">Downloads</a><br>
 dPAGE Protocol <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_8_dPAGE Protocol.pdf">pdf</a><br>
 Crystal Synthesis <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_9_DNA_crystal_synthesis.pdf">pdf</a><br>
+DNA Crystal Calculations <a href='{{ site.url }}{{ site.baseurl }}/data/protocols/Excel/DNA_crystal_strands.xlsx' target="_blank">Downloads</a><br>
 
 ## Nano Materials
 SWCNT Sample Preparation <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/2_1_cnt_sample_preparation.pdf">pdf</a><br>
