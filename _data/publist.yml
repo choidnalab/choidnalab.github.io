@@ -1,3 +1,13 @@
+- title: "Photoswitchable Optoelectronic Properties of 2D MoSe2-Diarylethene Hybrid Structures"
+  image: Conformation.png
+  description: 
+  authors: S. Park, J. Ji, C. Cunningham, S. Pillai, J. Rouillon, C. Benitez-Martin, M. Fang, E.H. Yang, J. Andreasson, J.H. You, J.H. Choi
+  link:
+    url: https://doi.org/10.1038/s41598-024-57479-z
+    display: Scientific Reports, 14, 7325 (2024)
+  highlight: 0
+  news2:
+
 - title: "DNA Nanostar Structures with Tunable Auxetic Properties"
   image: Conformation.png
   description: 
@@ -7,8 +17,6 @@
     display: Molecular Systems Design & Engineering, 9, 765-774 (2024)
   highlight: 0
   news2:
-
-
 
 - title: "Motility of Synthetic Cells from Engineered Lipids"
   image: Conformation.png
