@@ -25,7 +25,7 @@ Composite Electrodes for Supercapacitors, Ternary Materials, and Related Methods
   
 Ternary Composite Material, Supercapacitor, and Related Methods<br /><em>J.H. Choi, D. Houpt, J. Ji</em><br />US 12,191,078 (2025) 
   
-Ultralow Concentration Sensing of Bio-Matter with Perovskite Nickelate Devices and Arrays<br /><em>H. Zhang, F. Zuo, F. Li, J.H. Choi, S. Ramanathan</em><br /> US 2022/0025425 A1 (2022), WO 2020/131475 A1 (2020)
+Ultralow Concentration Sensing of Bio-Matter with Perovskite Nickelate Devices and Arrays<br /><em>H. Zhang, F. Zuo, F. Li, J.H. Choi, S. Ramanathan</em><br /> US 12,338,482 (2025)
   
 Microbiosensors based on DNA Modified Single-Walled Carbon Nanotube and Pt Black Nanocomposites<br /><em>D.M. Porterfield, T.G. Cha, J.H. Choi, J.C. Claussen, A.R. Diggs, J. Shi</em><br /> US 8,882,977 (2014) 
 
