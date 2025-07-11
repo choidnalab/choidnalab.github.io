@@ -17,7 +17,7 @@ permalink: /publications/
 {% endfor %}
 
 ## Patents
-DNA Origami Nanocomplexes for Selective Delivery of Imaging and Therapeutic Agents KRAS-mutant Pancreatic Cancer Cells<br /><em>J.H. Choi, B. Han, H.R. Moon, Y. Du, S. Choi, C. Cheng, G. Chiu, K.V. Solomon</em><br />US 63/670,537 (2025) 
+DNA Origami Nanocomplexes for Selective Delivery of Imaging and Therapeutic Agents KRAS-mutant Pancreatic Cancer Cells<br /><em>J.H. Choi, B. Han, H.R. Moon, Y. Du, S. Choi, C. Cheng, G. Chiu, K.V. Solomon</em><br />PCT/US25/37305 (2025) 
   
 System and Methods to Exploit Photoswitchable Optoelectronic Properties of 2D Hybrid Structures<br /><em>J.H. Choi, J. Ji, S. Park, J.H. You</em><br />US 19/072,726 (2025) 
   
