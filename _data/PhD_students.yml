@@ -1,19 +1,18 @@
-
 - name: Anirudh S. Madhavacharyula
-  photo: anirudh.jpg
+  photo: anirudh.jpg 
   info: PhD Student
   email: 
   number_educ: 1
   education1: B.S. Mechanical Engineering, Indian Institute of Technology Tirupati (2021)
- 
-  - name: Sewon Park
+
+- name: Sewon Park
   photo: sewon_park.jpg
   info: PhD Student
   email: 
   number_educ: 2
   education1: M.S. Mechanical Engineering, Yonsei University (2022)
   education2: B.S. Mechanical Engineering, Yonsei University (2020)
-  
+
 - name: Alexander Swett
   photo: alex.jpg
   info: PhD Student
@@ -21,14 +20,14 @@
   number_educ: 1
   education1: B.S. Materials Science and Engineering, University of Illinois Urbana-Champaign (2022)
 
- - name: Seongmin Seo
+- name: Seongmin Seo
   photo: Seongmin.jpg
   info: PhD Student
   email: 
   number_educ: 2
   education1: M.S. Mechanical Engineering, Ulsan National Institute of Science and Technology (2020)
   education2: B.S. Mechanical Engineering, Ulsan National Institute of Science and Technology (2018)
-  
+
 - name: Mallikarjuna Reddy Kesama
   photo: Malli.JPG
   info: Postdoctoral researcher
@@ -44,4 +43,3 @@
   email: 
   number_educ: 1
   education1: B.S. Mechanical Engineering, University of Wisconsin-Madison (2024)
- 
