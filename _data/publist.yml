@@ -1,3 +1,13 @@
+- title: "A Nanoscale Jitterbug Transformer from DNA"
+  image: Conformation.png
+  description: 
+  authors: S. Seo, A.A. Swett, M.R. Kesama, A.S. Madhvacharyula, R. Li, Y. Du, M. Eder, F.C. Simmel, and J.H. Choi
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2025.10.21.683790v1
+    display: bioRxiv (2025)
+  highlight: 0
+  news2:
+
 - title: "Understanding Structural Mechanics of Ligated DNA Crystals via Molecular Dynamics Simulation"
   image: Conformation.png
   description: 
