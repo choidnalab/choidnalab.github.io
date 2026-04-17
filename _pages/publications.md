@@ -17,6 +17,8 @@ permalink: /publications/
 {% endfor %}
 
 ## Patents
+Devices and Method Using Interfacial Photoswitching Mechanisms in Atomically-thin Two-Dimensional Transition Metal Dichalcogenides-Spiropyran Hybrids<br /><em>S. Park, J. Ji, J.H. You, J.H. Choi</em><br />US 64/005,161 (2026) 
+
 A Nanotransformer Using DNA Origami and Its Use in Formulating a Delivery System<br /><em>J.H. Choi, R. Li, Y. Du, A.S. Madhvacharyula, A.A. Swett, S. Seo, M.R. Kesama</em><br />US 63/889,743 (2025) 
 
 DNA Origami Nanocomplexes for Selective Delivery of Imaging and Therapeutic Agents to KRAS-mutant Pancreatic Cancer Cells<br /><em>J.H. Choi, B. Han, H.R. Moon, Y. Du, S. Choi, C. Cheng, G. Chiu, K.V. Solomon</em><br />PCT/US25/37305 (2025) 
