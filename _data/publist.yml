@@ -1,3 +1,23 @@
+- title: "Programmable Assembly of Higher-Order DNA Nanostructures from Microbial ssDNA Staple Libraries"
+  image: Conformation.png
+  description: 
+  authors: M.H. Yen, M.R. Kesama, Y. Du, J.H. Choi, and K.V. Solomon
+  link:
+    url: https://www.biorxiv.org/content/10.64898/2026.05.24.727530v1
+    display: bioRxiv (2026)
+  highlight: 0
+  news2:
+
+- title: "Programmable Synthesis of DNA Networks in Giant Vesicles via Rolling Circle Amplification"
+  image: Conformation.png
+  description: 
+  authors: S. Seo, A.A. Swett, M.R. Kesama, A.S. Madhvacharyula, R. Li, Y. Du, M. Eder, F.C. Simmel, and J.H. Choi
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.nanolett.6c00726
+    display: Nano Letters, 26, 4866-4873 (2026)
+  highlight: 0
+  news2:
+
 - title: "A Nanoscale Jitterbug Transformer from DNA"
   image: Conformation.png
   description: 
@@ -8,6 +28,16 @@
   highlight: 0
   news2:
 
+- title: "Understanding Interfacial Photoswitching Mechanisms in Atomically Thin TMD-Spiropyran Hybrids"
+  image: Conformation.png
+  description: 
+  authors: S. Park, J. Ji, M. Brophy, J. Audi, J. Rouillon, C. Benitez-Martin, J. Andreasson, J.H. You, and J.H. Choi
+  link:
+    url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/admt.71071
+    display: Advanced Materials Technologies, 11, e71071 (2026)
+  highlight: 0
+  news2:
+  
 - title: "DNA Crystals as a Template for Patterned Functional Materials"
   image: Conformation.png
   description: 
