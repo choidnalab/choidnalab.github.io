@@ -28,6 +28,16 @@
   highlight: 0
   news2:
   
+- title: "Intracellular Neuronal Recordings Across DNA Tiles"
+  image: Conformation.png
+  description: 
+  authors: S. Xiao, S.H. Um, M. Xu, D. Dankwa, S. Seo, J.H. Choi, A. Aksimentiev, L.N. Green, and K. Jayant
+  link:
+    url: https://www.nature.com/articles/s41565-026-02180-7
+    display: Nature Nanotechnology (2026)
+  highlight: 0
+  news2:
+  
 - title: "Understanding Interfacial Photoswitching Mechanisms in Atomically Thin TMD-Spiropyran Hybrids"
   image: Conformation.png
   description: 
