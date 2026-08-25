@@ -1,4 +1,28 @@
 
+- name: Mallikarjuna Reddy Kesama
+  photo: Malli.JPG
+  info: Postdoc (2023-2025)
+  info2: ""
+  email: 
+  duration: 
+  number_educ: 1
+  education1: "Current position: Researcher at IISC Bangalore"
+  education2:
+  education3:
+  education4:
+
+- name: Alexander Swett
+  photo: alex.jpg
+  info: PhD (2026)
+  info2: "Thesis:  DNA Nanotechnology for Interfacing with Inorganic Materials and Synthetic Biosystems"
+  email: 
+  duration: 
+  number_educ: 0
+  education1: ""
+  education2:
+  education3:
+  education4:
+
 - name: Yoo Hyun Kim
   photo: YooHyun.jpg
   info: MS (2025)
