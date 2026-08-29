@@ -13,7 +13,7 @@ permalink: /pictures/
 
 ME 606 &nbsp; Radiation Heat Transfer <br />
 ME 505 &nbsp; Intermediate Heat Transfer <br />
-ME 503 &nbsp; Micro and Nano Scale Energy Transfer Processes
+ME 503 &nbsp; Micro and Nano-Scale Energy Transfer Processes
 
 ### Undergraduate Courses
 
