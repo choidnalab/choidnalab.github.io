@@ -21,6 +21,7 @@ SA 10522 &nbsp; Engineering Education & Practice in South Korea <br />
 ME 498/499 &nbsp; Undergraduate Research in Nanotechnology <br />
 ME 463 &nbsp; Engineering Design <br />
 ME 315 &nbsp; Heat and Mass Transfer <br />
+ME 270 &nbsp; Basic Mechanics I<br />
 ME 200 &nbsp; Thermodynamics I<br />
 <br />
 
