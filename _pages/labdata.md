@@ -7,7 +7,7 @@ permalink: /labdata.html
 ---
 
 # Lab Data
-
+Github Protocols Link https://github.com/choidnalab/choilabprotocols
 ## Bio Materials
 DNA Origami <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_1_dna_origami.pdf">pdf</a><br>
 Buffers <a href="{{ site.url }}{{ site.baseurl }}/data/protocols/pdf/1_2_buffers.pdf">pdf</a><br>
